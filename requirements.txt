@@ -1,0 +1,9 @@
+jieba
+numpy
+pandas
+Pillow
+requests
+xlrd
+pyzbar
+qrcode
+loguru
