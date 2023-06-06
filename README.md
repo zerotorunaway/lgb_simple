@@ -39,10 +39,10 @@ C、支持用户token管理，可以批量完成任务
 
 3、【其他说明】
 
-A.本工具默认自动答题、题库来源于https://bitbucket.org/liangongbao/lgb/src/master/content；
+A.本工具默认自动答题、题库来源于https://bitbucket.org/liangongbao/lgb/src/master/content ；
 
 B.不排除题库未及时更新情况，若出现新题目，在命令行可以手动输入选项完成该题答案；
 
-C.本工具是在https://github.com/yegawong/liangongbao_help项目基础上，简化修改而来；
+C.本工具是在https://github.com/yegawong/liangongbao_help 项目基础上，简化修改而来；
 
 D.该工具仅用作学习交流用，切勿用于商业用途；
